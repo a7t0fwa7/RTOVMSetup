@@ -46,7 +46,7 @@ git clone https://github.com/HarmJ0y/DAMP.git C:\tools\DAMP
 git clone https://github.com/gentilkiwi/mimikatz.git C:\tools\mimikatz
 git clone https://github.com/p3nt4/PowerShdll.git C:\tools\PowerShdll
 git clone https://github.com/FortyNorthSecurity/Egress-Assess.git C:\tools\Egress-Assess
-git clone --recursive https://github.com/0xd4d/dnSpy.git C:\tools\dnSpy
+#git clone --recursive https://github.com/0xd4d/dnSpy.git C:\tools\dnSpy
 git clone https://github.com/leechristensen/SpoolSample.git C:\tools\SpoolSample
 git clone https://github.com/itm4n/PrivescCheck.git C:\tools\PrivescCheck
 git clone https://github.com/aloksaurabh/OffenPowerSh.git C:\tools\OffenPowerSh
