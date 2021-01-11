@@ -83,7 +83,7 @@ git clone https://github.com/GhostPack/SharpDump.git C:\tools\SharpDump
 git clone https://github.com/GhostPack/SafetyKatz.git C:tools\SafetyKatz
 git clone https://github.com/7Ragnarok7/Windows-Exploit-Suggester.git C:\tools\Windows-Exploit-Suggestor
 git clone https://github.com/bitsadmin/wesng.git C:\tools\Windows-Exploit-Suggester-New-Generation
-
+git clone https://github.com/rasta-mouse/ThreatCheck.git C:\tools\ThreatCheck
 
 # IE first run
 New-Item -Path "HKLM:\SOFTWARE\Policies\Microsoft\Internet Explorer"
